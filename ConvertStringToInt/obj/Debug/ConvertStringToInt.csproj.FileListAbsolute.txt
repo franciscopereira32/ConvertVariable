@@ -1,0 +1,8 @@
+C:\Users\Francisco & Viviane\Documents\Projetos\Studies.net\.vs\ConvertStrintToInt\ConvertStringToInt\bin\Debug\ConvertStringToInt.exe.config
+C:\Users\Francisco & Viviane\Documents\Projetos\Studies.net\.vs\ConvertStrintToInt\ConvertStringToInt\bin\Debug\ConvertStringToInt.exe
+C:\Users\Francisco & Viviane\Documents\Projetos\Studies.net\.vs\ConvertStrintToInt\ConvertStringToInt\bin\Debug\ConvertStringToInt.pdb
+C:\Users\Francisco & Viviane\Documents\Projetos\Studies.net\.vs\ConvertStrintToInt\ConvertStringToInt\obj\Debug\ConvertStringToInt.csproj.AssemblyReference.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\Studies.net\.vs\ConvertStrintToInt\ConvertStringToInt\obj\Debug\ConvertStringToInt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\Studies.net\.vs\ConvertStrintToInt\ConvertStringToInt\obj\Debug\ConvertStringToInt.csproj.CoreCompileInputs.cache
+C:\Users\Francisco & Viviane\Documents\Projetos\Studies.net\.vs\ConvertStrintToInt\ConvertStringToInt\obj\Debug\ConvertStringToInt.exe
+C:\Users\Francisco & Viviane\Documents\Projetos\Studies.net\.vs\ConvertStrintToInt\ConvertStringToInt\obj\Debug\ConvertStringToInt.pdb
