@@ -10,9 +10,9 @@ namespace ConvertStringToInt
     {
         static void Main(string[] args)
         {
-            var number = "1234";
-            int b = Convert.ToInt32(number);
-            Console.WriteLine(b);
+            var number = 1;
+            byte num = (byte)number; 
+            Console.WriteLine(num);
         }
     }
 }
